@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome to Cloudnloud</h1>
+    <h1>Welcome to KnowledgemateIT</h1>
     <p>Please fill this form to register</p>
     <hr>
      
